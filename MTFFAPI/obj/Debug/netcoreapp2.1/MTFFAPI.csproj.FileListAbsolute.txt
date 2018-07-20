@@ -1,0 +1,15 @@
+C:\Users\mtage\source\repos\MTFFAPI\MTFFAPI\bin\Debug\netcoreapp2.1\MTFFAPI.deps.json
+C:\Users\mtage\source\repos\MTFFAPI\MTFFAPI\bin\Debug\netcoreapp2.1\MTFFAPI.runtimeconfig.json
+C:\Users\mtage\source\repos\MTFFAPI\MTFFAPI\bin\Debug\netcoreapp2.1\MTFFAPI.runtimeconfig.dev.json
+C:\Users\mtage\source\repos\MTFFAPI\MTFFAPI\bin\Debug\netcoreapp2.1\MTFFAPI.dll
+C:\Users\mtage\source\repos\MTFFAPI\MTFFAPI\bin\Debug\netcoreapp2.1\MTFFAPI.pdb
+C:\Users\mtage\source\repos\MTFFAPI\MTFFAPI\obj\Debug\netcoreapp2.1\MTFFAPI.csproj.CoreCompileInputs.cache
+C:\Users\mtage\source\repos\MTFFAPI\MTFFAPI\obj\Debug\netcoreapp2.1\MTFFAPI.RazorAssemblyInfo.cache
+C:\Users\mtage\source\repos\MTFFAPI\MTFFAPI\obj\Debug\netcoreapp2.1\MTFFAPI.RazorAssemblyInfo.cs
+C:\Users\mtage\source\repos\MTFFAPI\MTFFAPI\obj\Debug\netcoreapp2.1\MTFFAPI.AssemblyInfoInputs.cache
+C:\Users\mtage\source\repos\MTFFAPI\MTFFAPI\obj\Debug\netcoreapp2.1\MTFFAPI.AssemblyInfo.cs
+C:\Users\mtage\source\repos\MTFFAPI\MTFFAPI\obj\Debug\netcoreapp2.1\MTFFAPI.RazorTargetAssemblyInfo.cache
+C:\Users\mtage\source\repos\MTFFAPI\MTFFAPI\obj\Debug\netcoreapp2.1\MTFFAPI.dll
+C:\Users\mtage\source\repos\MTFFAPI\MTFFAPI\obj\Debug\netcoreapp2.1\MTFFAPI.pdb
+C:\Users\mtage\source\repos\MTFFAPI\MTFFAPI\obj\Debug\netcoreapp2.1\MTFFAPI.csprojAssemblyReference.cache
+C:\Users\mtage\source\repos\MTFFAPI\MTFFAPI\bin\Debug\netcoreapp2.1\MTFFAPI.xml

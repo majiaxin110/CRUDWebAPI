@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MTFFAPI</name>
+    </assembly>
+    <members>
+        <member name="M:MTFFAPI.Controllers.ValuesController.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="M:MTFFAPI.Controllers.ValuesController.Get">
+            <summary>
+            螺丝扣搭街坊看
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MTFFAPI.Controllers.ValuesController.GetByID(System.String)">
+            <summary>
+            获取一个Supplier 通过ID
+            </summary>
+            <param name="id">目标SupplierID</param>
+            <returns></returns>
+        </member>
+        <member name="M:MTFFAPI.Controllers.ValuesController.Post(MTFFAPI.Entity.SupplierCreation)">
+            <summary>
+            添加一个supplier
+            </summary>
+            <param name="newSup">要添加的supplier的内容</param>
+        </member>
+        <member name="M:MTFFAPI.Controllers.ValuesController.Put(System.Int32,MTFFAPI.Entity.SupplierModification)">
+            <summary>
+            完整更新一个supplier
+            </summary>
+            <param name="supModified">修改后全部</param>
+        </member>
+        <member name="M:MTFFAPI.Controllers.ValuesController.Delete(System.String)">
+            <summary>
+            删除一个supplier 通过ID
+            </summary>
+            <param name="id"></param>
+        </member>
+    </members>
+</doc>
